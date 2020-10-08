@@ -1,0 +1,2 @@
+IntVar = usa-se para numeros inteiros
+StringVar = usa-se para strings

@@ -35,7 +35,7 @@ entry_sobrenome=Entry(janela)
 #botão é para mostrar e concatenar
 button_apresentar=Button(janela, text="Mostrar",command=concatenar)
 #O botão abaixo é um comando para fechar a janela
-button_cancelar=Button(janela, text="Cancelar", command=janela.destroy)
+button_cancelar=Button(janela, text="fechar", command=janela.destroy)
 
 
 #posicionamento
